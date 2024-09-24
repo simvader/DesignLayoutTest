@@ -78,10 +78,3 @@ fun Logo(){
         contentDescription = null
     )
 }
-
-@Composable
-fun GreetingPreview() {
-    AppTheme {
-        Greeting(name = "Android")
-    }
-}
